@@ -154,6 +154,11 @@ public class DestinationList {
             index++;
         }
         completedArea.append("\nTotal: +"+ totalValue);
+        double average = (double)totalValue/player.getCompletedDestinations();
+        average = average*10;
+        average = (int)average;
+        average = average/10;
+        completedArea.append("\n\n[Average Points per Destination: " + average +"]");
         
     }
 
