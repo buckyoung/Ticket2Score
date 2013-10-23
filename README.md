@@ -1,3 +1,4 @@
+[note: you can find the current release in /dist/]
 Ticket2Score
 ============
 
