@@ -1,4 +1,6 @@
-[note: you can find the current release in /dist/]
+[/dist : Current Release ZIP]
+[/resources : Multiple Destination Resource Files -- stores destinations and point values for each expansion and the main game]
+[/src : Java source files]
 Ticket2Score
 ============
 
